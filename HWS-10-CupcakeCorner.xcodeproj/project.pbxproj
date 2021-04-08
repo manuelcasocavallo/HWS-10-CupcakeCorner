@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA259559261F724C00E08CAD /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA259558261F724C00E08CAD /* Order.swift */; };
+		FA25955C261F774F00E08CAD /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA25955B261F774F00E08CAD /* AddressView.swift */; };
+		FA25955F261F77FB00E08CAD /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA25955E261F77FB00E08CAD /* CheckoutView.swift */; };
 		FADC24E2261F5E2F00BC9390 /* HWS_10_CupcakeCornerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADC24E1261F5E2F00BC9390 /* HWS_10_CupcakeCornerApp.swift */; };
 		FADC24E4261F5E2F00BC9390 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADC24E3261F5E2F00BC9390 /* ContentView.swift */; };
 		FADC24E6261F5E3000BC9390 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FADC24E5261F5E3000BC9390 /* Assets.xcassets */; };
@@ -14,6 +17,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA259558261F724C00E08CAD /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		FA25955B261F774F00E08CAD /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
+		FA25955E261F77FB00E08CAD /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		FADC24DE261F5E2F00BC9390 /* HWS-10-CupcakeCorner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HWS-10-CupcakeCorner.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FADC24E1261F5E2F00BC9390 /* HWS_10_CupcakeCornerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HWS_10_CupcakeCornerApp.swift; sourceTree = "<group>"; };
 		FADC24E3261F5E2F00BC9390 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +60,9 @@
 			children = (
 				FADC24E1261F5E2F00BC9390 /* HWS_10_CupcakeCornerApp.swift */,
 				FADC24E3261F5E2F00BC9390 /* ContentView.swift */,
+				FA25955B261F774F00E08CAD /* AddressView.swift */,
+				FA25955E261F77FB00E08CAD /* CheckoutView.swift */,
+				FA259558261F724C00E08CAD /* Order.swift */,
 				FADC24E5261F5E3000BC9390 /* Assets.xcassets */,
 				FADC24EA261F5E3000BC9390 /* Info.plist */,
 				FADC24E7261F5E3000BC9390 /* Preview Content */,
@@ -138,6 +147,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA259559261F724C00E08CAD /* Order.swift in Sources */,
+				FA25955C261F774F00E08CAD /* AddressView.swift in Sources */,
+				FA25955F261F77FB00E08CAD /* CheckoutView.swift in Sources */,
 				FADC24E4261F5E2F00BC9390 /* ContentView.swift in Sources */,
 				FADC24E2261F5E2F00BC9390 /* HWS_10_CupcakeCornerApp.swift in Sources */,
 			);
